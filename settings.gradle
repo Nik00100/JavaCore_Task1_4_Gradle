@@ -1,0 +1,5 @@
+rootProject.name = 'JavaCoreTask4Gradle'
+include 'db'
+include 'api'
+include 'service'
+
